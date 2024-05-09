@@ -10,6 +10,6 @@
 ![Screenshot 2024-05-08 203246](https://github.com/gpreddy172/Python-Tasks/assets/97269555/84bcf471-4b8e-4090-9233-08c04aa01e4c)
 ![Screenshot 2024-05-08 203231](https://github.com/gpreddy172/Python-Tasks/assets/97269555/48cfacb3-89ac-445e-bc94-8c0dbec46947)
 ![Screenshot 2024-05-08 203211](https://github.com/gpreddy172/Python-Tasks/assets/97269555/aeb5715c-3cbc-406b-be31-8a284739181f)
-![Screenshot 2024-05-08 203202](https://github.com/gpreddy172/Python-Tasks/assets/97269555/55a776e0-6ac3-410a-8407-fdf8fd733c08)![Screenshot 2024-05-09 123253](https://github.com/gpreddy172/Python-Tasks/assets/97269555/0df4e7cd-67f4-483b-9e7d-e9c4a700598c)
-![Screenshot 2024-05-08 203144](https://g![Screenshot 2024-05-09 102749](https://github.com/gpreddy172/Python-Tasks/assets/97269555/4d94416c-87c4-4f3f-8251-801c129887c2)
-ithub.com/gpreddy172/Python-Tasks/assets/97269555/a1e31d80-50f7-472c-bc17-03f6b61167e4)
+![Screenshot 2024-05-08 203202](https://github.com/gpreddy172/Python-Tasks/assets/97269555/55a776e0-6ac3-410a-8407-fdf8fd733c08)![Screenshot 2024-05-09 123253](https://githu![Screenshot 2024-05-09 102749](https://github.com/gpreddy172/Python-Tasks/assets/97269555/02db9dd2-9a6a-419d-b91a-1a2a4aa7879e)
+b.com/gpreddy172/Python-Tasks/assets/97269555/0df4e7cd-67f4-483b-9e7d-e9c4a700598c)
+
